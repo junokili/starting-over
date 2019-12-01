@@ -1,7 +1,5 @@
-# Code Institute
+# My First Website
 
-Welcome junokili,
+This is a basic, pretty unsighly website, testing out HTML, CSS and GitHub
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+add, push, commit, repeat
